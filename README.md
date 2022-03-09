@@ -4,7 +4,7 @@ Python script to save multiple clipboards at one place, and fetch them later whe
 ## How to use
 - Download clip-to-saurus [.zip](https://github.com/kxnyshk/clip-to-saurus.py/archive/refs/heads/master.zip)
 - Unzip the folder.
-- Open the [.py](https://github.com/kxnyshk/clip-to-saurus.py/blob/master/clip-to-saurus.py) file in the terminal of your preferred IDE.
+- Open the [clip-to-saurus.py](https://github.com/kxnyshk/clip-to-saurus.py/blob/master/clip-to-saurus.py) file in the terminal of your preferred IDE.
 
 ## Commands
  - Save:  Copy the text you wanna save. Run the save command. Enter the key you wanna reference your data with. Voila! your data is saved now!
